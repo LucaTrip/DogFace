@@ -1,16 +1,15 @@
-# dogface
+# DogFace
 
-A new Flutter project.
+Flutter mobile app that allows you to learn about existing dog breeds 🐶.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+With this app you can see all dog breeds and sub-breeds using the https://dog.ceo/dog-api/ service.
 
-A few resources to get you started if this is your first Flutter project:
+### Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this Flutter app, you need to perform the following steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone the repo and go inside the downloaded folder
+- in the terminal, run `flutter pub get` to download all the dependencies
+- when it is finished, run `flutter run` and select the desired location where execute your app
